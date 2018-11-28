@@ -52,7 +52,8 @@
             <artifactId>ruoyi-workflower</artifactId>
             <version>${ruoyi.version}</version>
         </dependency>
-        
+
+
     </dependencies>
 
     <build>
